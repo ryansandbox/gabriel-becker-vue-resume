@@ -34,6 +34,15 @@
                 "en": {
                     "value": "4-12-3 Sakura Street, Shibuya, Tokyo 150-0002",
                     "valueShort": "Shibuya – Tokyo"
+                },
+                "pt": {
+                    "valueShort": "Shibuya – Tóquio"
+                },
+                "ru": {
+                    "valueShort": "Сибуя – Токио"
+                },
+                "ja": {
+                    "valueShort": "渋谷 – 東京"
                 }
             }
         },

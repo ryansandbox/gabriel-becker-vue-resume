@@ -5,7 +5,7 @@
             "component": "ArticleProfile",
             "settings": {
                 "contact_list_ids": ["address", "email", "discord"],
-                "contact_circles_ids": []
+                "contact_circles_ids": ["github", "linkedin", "instagram", "x"]
             },
             "items": [
                 {

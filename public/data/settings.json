@@ -11,6 +11,13 @@
         },
 
         {
+            "id": "ja",
+            "name": "日本語",
+            "flagUrl": "images/flags/ja.png",
+            "default": false
+        },
+
+        {
             "name": "Português",
             "id": "pt",
             "flagUrl": "images/flags/pt-br.png",
@@ -21,13 +28,6 @@
             "name": "Русский",
             "id": "ru",
             "flagUrl": "images/flags/ru.png",
-            "default": false
-        },
-
-        {
-            "id": "ja",
-            "name": "日本語",
-            "flagUrl": "images/flags/ja.png",
             "default": false
         }
     ]
