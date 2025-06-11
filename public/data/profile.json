@@ -96,11 +96,11 @@
         },
 
         {
-            "id": "instagram",
+            "id": "medium",
             "value": "@gabebeckerdev",
             "valueShort": "@gabebeckerdev",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com/gabebeckerdev"
+            "faIcon": "fa-brands fa-medium",
+            "href": "https://medium.com/gabebeckerdev"
         }
     ]
 }
