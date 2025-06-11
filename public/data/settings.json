@@ -1,5 +1,5 @@
 {
-    "preloaderEnabled": true,
+    "preloaderEnabled": false,
     "navToggleEnabled": true,
 
     "supportedLanguages": [
@@ -11,21 +11,24 @@
         },
 
         {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
+            "name": "Português",
+            "id": "pt",
+            "flagUrl": "images/flags/pt-br.png",
+            "default": false
         },
 
         {
-            "name": "Français",
-            "id": "fr",
-            "flagUrl": "images/flags/fr.png"
+            "name": "Русский",
+            "id": "ru",
+            "flagUrl": "images/flags/ru.png",
+            "default": false
         },
 
         {
-            "name": "中文",
-            "id": "zh",
-            "flagUrl": "images/flags/zh.png"
+            "id": "ja",
+            "name": "日本語",
+            "flagUrl": "images/flags/ja.png",
+            "default": false
         }
     ]
 }

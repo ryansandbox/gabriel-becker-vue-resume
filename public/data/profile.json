@@ -1,85 +1,97 @@
 {
-    "name": "Roy Sheppard",
-    "profilePictureUrl": "images/pictures/avatar.png",
+    "name": "Gabriel Becker",
+    "profilePictureUrl": "images/content/pfp.jpg",
 
     "locales": {
         "en": {
+            "name": "Gabriel Becker",
             "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "role": "Data Analyst"
         },
-
-        "es": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
+        "pt": {
+            "name": "Gabriel Becker",
+            "credits": "Design por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Analista de Dados"
         },
-
-        "fr": {
-            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
+        "ru": {
+            "name": "Габриэль Беккер",
+            "credits": "Дизайн от <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Аналитик данных"
         },
-
-        "zh": {
-            "name": "罗伊谢帕德",
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+        "ja": {
+            "name": "ガブリエル・ベッカー",
+            "credits": "<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong> 作",
+            "role": "データアナリスト"
         }
     },
 
     "contactOptions": [
         {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino – CA",
             "faIcon": "fa-regular fa-map",
-            "href": null
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "4-12-3 Sakura Street, Shibuya, Tokyo 150-0002",
+                    "valueShort": "Shibuya – Tokyo"
+                }
+            }
         },
 
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "gabe.becker@gmail.com",
+            "valueShort": "gabe.becker@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
-        },
-
-        {
-            "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
+            "href": "mailto:gabe.becker@gmail.com"
         },
 
         {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@ryanbalieiro",
+            "valueShort": "@ryanbalieiro",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
-        },
-
-        {
-            "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
+            "href": "https://github.com/ryanbalieiro"
         },
 
         {
             "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "Gabriel Becker",
+            "valueShort": "Gabriel Becker",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://linkedin.com/gabe-becker-dev"
         },
 
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+81 90-1234-5678",
+            "valueShort": "090-1234-5678",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890"
+            "href": "tel:+819012345678"
+        },
+
+        {
+            "id": "x",
+            "value": "@gabebeckerdev",
+            "valueShort": "@gabebeckerdev",
+            "faIcon": "fa-brands fa-x-twitter",
+            "href": "https://x.com/gabebeckerdev"
+        },
+
+        {
+            "id": "discord",
+            "value": "gabebeckerdev",
+            "valueShort": "gabebeckerdev",
+            "faIcon": "fa-brands fa-discord",
+            "href": "https://discord.com/users/gabebeckerdev"
+        },
+
+        {
+            "id": "instagram",
+            "value": "@gabebeckerdev",
+            "valueShort": "@gabebeckerdev",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/gabebeckerdev"
         }
     ]
 }
