@@ -1,7 +1,5 @@
 # 📝 Vue Resume Template – [Gabriel Becker](https://ryansandbox.github.io/gabriel-becker-vue-resume/)
 
-**Project still in development** - please check back later for updates.
-
 This project is a customized version of [Vue Resume Template](https://github.com/ryanbalieiro/vue-resume-template) originally developed by **Ryan Balieiro**.
 
 It showcases the fictional resume of a Data Analyst named **Gabriel Becker**, featuring a modern, responsive design with a sleek **blue-themed layout**.
