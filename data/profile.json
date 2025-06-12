@@ -1,0 +1,106 @@
+{
+    "name": "Gabriel Becker",
+    "profilePictureUrl": "images/content/pfp.jpg",
+
+    "locales": {
+        "en": {
+            "name": "Gabriel Becker",
+            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Data Analyst"
+        },
+        "pt": {
+            "name": "Gabriel Becker",
+            "credits": "Design por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Analista de Dados"
+        },
+        "ru": {
+            "name": "Габриэль Беккер",
+            "credits": "Дизайн от <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Аналитик данных"
+        },
+        "ja": {
+            "name": "ガブリエル・ベッカー",
+            "credits": "<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong> 作",
+            "role": "データアナリスト"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "4-12-3 Sakura Street, Tokyo 150-0002",
+                    "valueShort": "Shibuya – Tokyo"
+                },
+                "pt": {
+                    "valueShort": "Shibuya – Tóquio"
+                },
+                "ru": {
+                    "valueShort": "Сибуя – Токио"
+                },
+                "ja": {
+                    "valueShort": "渋谷 – 東京"
+                }
+            }
+        },
+
+        {
+            "id": "email",
+            "value": "gabe.becker@gmail.com",
+            "valueShort": "gabe.becker@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:gabe.becker@gmail.com"
+        },
+
+        {
+            "id": "github",
+            "value": "@ryanbalieiro",
+            "valueShort": "@ryanbalieiro",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/ryanbalieiro"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "Gabriel Becker",
+            "valueShort": "Gabriel Becker",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/gabe-becker-dev"
+        },
+
+        {
+            "id": "phone",
+            "value": "+81 90-1234-5678",
+            "valueShort": "090-1234-5678",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:+819012345678"
+        },
+
+        {
+            "id": "x",
+            "value": "@gabebeckerdev",
+            "valueShort": "@gabebeckerdev",
+            "faIcon": "fa-brands fa-x-twitter",
+            "href": "https://x.com/gabebeckerdev"
+        },
+
+        {
+            "id": "discord",
+            "value": "gabebeckerdev",
+            "valueShort": "gabebeckerdev",
+            "faIcon": "fa-brands fa-discord",
+            "href": "https://discord.com/users/gabebeckerdev"
+        },
+
+        {
+            "id": "medium",
+            "value": "@gabebeckerdev",
+            "valueShort": "@gabebeckerdev",
+            "faIcon": "fa-brands fa-medium",
+            "href": "https://medium.com/gabebeckerdev"
+        }
+    ]
+}
