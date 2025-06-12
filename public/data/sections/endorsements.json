@@ -18,27 +18,23 @@
                     "locales": {
                         "en": {
                             "title": "Angela Weber",
-                            "description": "“Gabriel was absolutely instrumental in <strong>transforming raw data into meaningful insights</strong>. His analytical mindset, attention to detail, and clear communication made complex findings easy to understand and act upon.”",
-                            "level": "CyberSafe Securities"
+                            "description": "Chief Technology Officer at <em>CyberSafe Securities</em>.<br><strong>angelaweber@email.com</strong>"
                         },
                         "pt": {
                             "title": "Angela Weber",
-                            "description": "“Gabriel foi absolutamente instrumental em <strong>transformar dados brutos em insights significativos</strong>. Sua mentalidade analítica, atenção aos detalhes e comunicação clara tornaram as descobertas complexas fáceis de entender e agir.”",
-                            "level": "CyberSafe Securities"
+                            "description": "Diretora de Tecnologia da <em>CyberSafe Securities</em>.<br><strong>angelaweber@email.com</strong>"
                         },
                         "ru": {
                             "title": "Анжела Вебер",
-                            "description": "“Габриэль сыграл ключевую роль в <strong>преобразовании необработанных данных в значимые инсайты</strong>. Его аналитический подход, внимание к деталям и ясная коммуникация сделали сложные выводы понятными и легкими для реализации.”",
-                            "level": "CyberSafe Securities"
+                            "description": "Главный технический директор в <em>CyberSafe Securities</em>.<br><strong>angelaweber@email.com</strong>"
                         },
                         "ja": {
                             "title": "アンジェラ・ウェーバー",
-                            "description": "『ガブリエルは、<strong>生データを意味のある洞察に変える</strong>上で非常に重要な役割を果たしました。彼の分析的な考え方、細部への注意、明確なコミュニケーションにより、複雑な発見が理解しやすく、実行可能になりました。』",
-                            "level": "サイバーセーフ証券"
+                            "description": "<em>サイバーセーフ証券</em>の最高技術責任者。<br><strong>angelaweber@email.com</strong>"
                         }
                     },
                     "links": [
-                        {"href": "mailto:angelaweber@email.com", "staticLabel": "angelaweber@email.com"}
+                        {"href": "https://linkedin.com", "stringKey": "view_on_linkedin"}
                     ]
                 },
                 {
@@ -47,27 +43,24 @@
                     "locales": {
                         "en": {
                             "title": "Takashi Yamamoto",
-                            "description": "“I loved working with Gabriel, his ability to turn complex data into actionable insights was impressive. <strong>Recommend him to anyone</strong> looking for a data analyst.”",
-                            "level": "Hikari Studio"
+                            "description": "Senior Data Scientist at <em>Hikari Technologies</em>.<br><strong>yamamoto.tk@hikari.jp</strong>",
+                            "level": ""
                         },
                         "pt": {
                             "title": "Takashi Yamamoto",
-                            "description": "“Adorei trabalhar com Gabriel, sua capacidade de transformar dados complexos em insights acionáveis foi impressionante. <strong>Recomendo a qualquer pessoa</strong> que procure um analista de dados.”",
-                            "level": "Hikari Studio"
+                            "description": "Cientista de Dados Sênior na <em>Hikari Technologies</em>.<br><strong>yamamoto.tk@hikari.jp</strong>"
                         },
                         "ru": {
                             "title": "Такасхи Ямамото",
-                            "description": "“Мне очень понравилось работать с Габриэлем, его способность превращать сложные данные в практические инсайты была впечатляющей. <strong>Рекомендую его всем</strong>, кто ищет аналитика данных.”",
-                            "level": "Hikari Studio"
+                            "description": "Старший научный сотрудник по данным в <em>Hikari Technologies</em>.<br><strong>yamamoto.tk@hikari.jp</strong>"
                         },
                         "ja": {
                             "title": "山本 隆",
-                            "description": "『ガブリエルと一緒に仕事をするのが大好きでした。彼の複雑なデータを実用的な洞察に変える能力は素晴らしかったです。<strong>データアナリストを探している人には彼をお勧めします</strong>。』",
-                            "level": "光スタジオ"
+                            "description": "<em>光テクノロジーズ</em>のシニアデータサイエンティスト。<br><strong>yamamoto.tk@hikari.jp</strong>"
                         }
                     },
                     "links": [
-                        {"href": "mailto:yamamoto.tk@hikari.jp", "staticLabel": "yamamoto.tk@hikari.jp"}
+                        {"href": "https://linkedin.com", "stringKey": "view_on_linkedin"}
                     ]
                 },
                 {
@@ -76,27 +69,23 @@
                     "locales": {
                         "en": {
                             "title": "Aiko Nishimura",
-                            "description": "“Gabriel brought a level of analytical rigor that elevated our internal reporting tools at Konami. A <strong>truly valuable asset</strong> to any data-driven team.”",
-                            "level": "Konami Digital Entertainment"
+                            "description": "Lead Software Engineer at <em>Konami Digital Ent</em>.<br><strong>nishimura.aiko@konami.jp</strong>"
                         },
                         "pt": {
                             "title": "Aiko Nishimura",
-                            "description": "“Gabriel trouxe um nível de rigor analítico que elevou nossas ferramentas de relatórios internos na Konami. Um <strong>ativo verdadeiramente valioso</strong> para qualquer equipe orientada por dados.”",
-                            "level": "Konami Digital Entertainment"
+                            "description": "Eng. de Software Líder na <em>Konami Digital Ent</em>.<br><strong>nishimura.aiko@konami.jp</strong>"
                         },
                         "ru": {
                             "title": "Айко Нисимура",
-                            "description": "“Габриэль привнес уровень аналитической строгости, который повысил наши внутренние инструменты отчетности в Konami. <strong>Действительно ценный актив</strong> для любой команды, ориентированной на данные.”",
-                            "level": "Konami Digital Entertainment"
+                            "description": "Ведущий инженер-программист в <em>Konami Digital Ent</em>.<br><strong>nishimura.aiko@konami.jp</strong>"
                         },
                         "ja": {
                             "title": "西村 愛子",
-                            "description": "『ガブリエルは、コナミの内部報告ツールを向上させるレベルの分析的厳密さをもたらしました。<strong>データ駆動型チームにとって本当に貴重な資産</strong>です。』",
-                            "level": "コナミデジタルエンタテインメント"
+                            "description": "<em>コナミデジタルエンタテインメント</em>のリードソフトウェアエンジニア。<br><strong>nishimura.aiko@konami.jp</strong>"
                         }
                     },
                     "links": [
-                        {"href": "mailto:aiko.n@konami.jp", "staticLabel": "aiko.n@konami.jp"}
+                        {"href": "https://linkedin.com", "stringKey": "view_on_linkedin"}
                     ]
                 }
             ]
@@ -152,22 +141,22 @@
                     "fallbackFaIcon": "fa-regular fa-star",
                     "locales": {
                         "en": {
-                            "title": "Shibuya Data Science Conference: Best Paper",
+                            "title": "DST Conference: Best Paper",
                             "description": "Recognized for a paper on <strong>machine learning applications</strong> in real-time data processing, which was published in the conference proceedings.",
                             "level": "2025"
                         },
                         "pt": {
-                            "title": "Conferência de Ciência de Dados de Shibuya: Melhor Artigo",
+                            "title": "Conferência DST: Melhor Artigo",
                             "description": "Reconhecido por um artigo sobre <strong>aplicações de aprendizado de máquina</strong> no processamento de dados em tempo real, que foi publicado nos anais da conferência.",
                             "level": "2025"
                         },
                         "ru": {
-                            "title": "Конференция по Науке Данных в Сибуя: Лучшая Статья",
+                            "title": "Конференция DST: Лучший Доклад",
                             "description": "Признан за статью о <strong>применении машинного обучения</strong> в обработке данных в реальном времени, которая была опубликована в материалах конференции.",
                             "level": "2025"
                         },
                         "ja": {
-                            "title": "渋谷データサイエンス会議：最優秀論文",
+                            "title": "DST会議：最優秀論文",
                             "description": "リアルタイムデータ処理における<strong>機械学習の応用</strong>に関する論文が認められ、会議の議事録に掲載されました。",
                             "level": "2025"
                         }

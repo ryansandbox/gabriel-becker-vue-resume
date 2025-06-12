@@ -29,6 +29,7 @@
             "view_on_app_store": "App Store",
             "view_on_github": "Official Repository",
             "view_on_google_play": "Google Play",
+            "view_on_linkedin": "Linkedin",
             "view_on_npm": "NPM Package",
             "view_on_windows_store": "Windows Store",
             "view_website": "Official Website"
@@ -62,6 +63,7 @@
             "view_on_app_store": "App Store",
             "view_on_github": "Repositório Oficial",
             "view_on_google_play": "Google Play",
+            "view_on_linkedin": "Linkedin",
             "view_on_npm": "Pacote NPM",
             "view_on_windows_store": "Windows Store",
             "view_website": "Site Oficial"
@@ -95,6 +97,7 @@
             "view_on_app_store": "App Store",
             "view_on_github": "Официальный репозиторий",
             "view_on_google_play": "Google Play",
+            "view_on_linkedin": "LinkedIn",
             "view_on_npm": "Пакет NPM",
             "view_on_windows_store": "Windows Store",
             "view_website": "Официальный сайт"
@@ -128,6 +131,7 @@
             "view_on_app_store": "App Store",
             "view_on_github": "公式リポジトリ",
             "view_on_google_play": "Google Play",
+            "view_on_linkedin": "LinkedIn",
             "view_on_npm": "NPM パッケージ",
             "view_on_windows_store": "Windows Store",
             "view_website": "公式ウェブサイト"

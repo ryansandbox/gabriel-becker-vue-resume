@@ -126,16 +126,16 @@
                     "locales": {
                         "en": {
                             "title": "Python",
-                            "description": "I can use Python for a wide range of tasks, from data analysis and machine learning to web development and automation."
+                            "description": "Including libraries such as Pandas, NumPy, and Matplotlib."
                         },
                         "pt": {
-                            "description": "Posso usar Python para uma ampla gama de tarefas, desde análise de dados e aprendizado de máquina até desenvolvimento web e automação."
+                            "description": "Incluindo bibliotecas como Pandas, NumPy e Matplotlib."
                         },
                         "ru": {
-                            "description": "Я могу использовать Python для широкого спектра задач, от анализа данных и машинного обучения до веб-разработки и автоматизации."
+                            "description": "Включая библиотеки, такие как Pandas, NumPy и Matplotlib."
                         },
                         "ja": {
-                            "description": "データ分析や機械学習からウェブ開発や自動化まで、幅広いタスクにPythonを使用できます。"
+                            "description": "Pandas、NumPy、Matplotlibなどのライブラリを含む。"
                         }
                     }
                 },
@@ -147,16 +147,16 @@
                     "locales": {
                         "en": {
                             "title": "SQL",
-                            "description": "Proficient in writing complex SQL queries to extract, transform, and analyze data across various relational databases."
+                            "description": "Proficient in writing complex SQL queries to extract and analyze data."
                         },
                         "pt": {
-                            "description": "Proficiente em escrever consultas SQL complexas para extrair, transformar e analisar dados em vários bancos de dados relacionais."
+                            "description": "Proficiente em escrever consultas SQL complexas para extrair e analisar dados."
                         },
                         "ru": {
-                            "description": "Умею писать сложные SQL-запросы для извлечения, преобразования и анализа данных в различных реляционных базах данных."
+                            "description": "Умею писать сложные SQL-запросы для извлечения и анализа данных."
                         },
                         "ja": {
-                            "description": "さまざまなリレーショナルデータベースでデータを抽出、変換、分析するための複雑なSQLクエリを書くことに熟練しています。"
+                            "description": "複雑なSQLクエリを作成してデータを抽出および分析することに熟練しています。"
                         }
                     }
                 },
@@ -168,16 +168,16 @@
                     "locales": {
                         "en": {
                             "title": "R",
-                            "description": "Used for statistical computing and data visualization — especially in projects involving data exploration and predictive modeling."
+                            "description": "Used for statistical computing and data visualization."
                         },
                         "pt": {
-                            "description": "Usado para computação estatística e visualização de dados — especialmente em projetos envolvendo exploração de dados e modelagem preditiva."
+                            "description": "Usado para computação estatística e visualização de dados."
                         },
                         "ru": {
-                            "description": "Используется для статистических вычислений и визуализации данных — особенно в проектах, связанных с исследованием данных и предсказательным моделированием."
+                            "description": "Используется для статистических вычислений и визуализации данных."
                         },
                         "ja": {
-                            "description": "統計計算とデータ可視化に使用 — 特にデータ探索や予測モデリングを含むプロジェクトで。"
+                            "description": "統計計算とデータ可視化に使用されます。"
                         }
                     }
                 },
@@ -189,16 +189,16 @@
                     "locales": {
                         "en": {
                             "title": "JavaScript",
-                            "description": "Familiar with JavaScript for building interactive dashboards and integrating analytics features into web-based tools."
+                            "description": "Including frameworks like React, Vue and Svelte."
                         },
                         "pt": {
-                            "description": "Familiarizado com JavaScript para construir painéis interativos e integrar recursos de análise em ferramentas baseadas na web."
+                            "description": "Incluindo frameworks como React, Vue e Svelte."
                         },
                         "ru": {
-                            "description": "Знаком с JavaScript для создания интерактивных панелей и интеграции аналитических функций в веб-инструменты."
+                            "description": "Включая фреймворки, такие как React, Vue и Svelte."
                         },
                         "ja": {
-                            "description": "インタラクティブなダッシュボードを構築し、ウェブベースのツールに分析機能を統合するためのJavaScriptに精通しています。"
+                            "description": "React、Vue、Svelteなどのフレームワークを含む。"
                         }
                     }
                 },
@@ -210,16 +210,16 @@
                     "locales": {
                         "en": {
                             "title": "DAX",
-                            "description": "Skilled in using DAX for creating calculated columns, measures, and custom KPIs in Power BI reports."
+                            "description": "Specially for creating complex calculations and measures in Power BI."
                         },
                         "pt": {
-                            "description": "Hábil no uso de DAX para criar colunas calculadas, medidas e KPIs personalizados em relatórios do Power BI."
+                            "description": "Especialmente para criar cálculos complexos e medidas no Power BI."
                         },
                         "ru": {
-                            "description": "Умею использовать DAX для создания вычисляемых столбцов, мер и пользовательских KPI в отчетах Power BI."
+                            "description": "Особенно для создания сложных вычислений и мер в Power BI."
                         },
                         "ja": {
-                            "description": "Power BIレポートで計算列、メジャー、およびカスタムKPIを作成するためにDAXを使用するスキルがあります。"
+                            "description": "Power BIで複雑な計算とメジャーを作成するために特化しています。"
                         }
                     }
                 },
@@ -230,17 +230,17 @@
                     "percentage": 70,
                     "locales": {
                         "en": {
-                            "title": "M (Power Query)",
-                            "description": "Comfortable using M for advanced data transformations and shaping workflows inside Power BI and Excel."
+                            "title": "Power Query M",
+                            "description": "Used for data transformation and preparation in Power BI and Excel."
                         },
                         "pt": {
-                            "description": "Confortável usando M para transformações avançadas de dados e fluxos de trabalho de modelagem dentro do Power BI e Excel."
+                            "description": "Usado para transformação e preparação de dados no Power BI e Excel."
                         },
                         "ru": {
-                            "description": "Комфортно использую M для сложных преобразований данных и формирования рабочих процессов в Power BI и Excel."
+                            "description": "Используется для преобразования и подготовки данных в Power BI и Excel."
                         },
                         "ja": {
-                            "description": "Power BIやExcel内での高度なデータ変換とワークフローの形成にMを使用することに慣れています。"
+                            "description": "Power BIやExcelでのデータ変換と準備に使用されます。"
                         }
                     }
                 }
@@ -271,16 +271,16 @@
                     "locales": {
                         "en": {
                             "title": "Power BI",
-                            "description": "Creating insightful, interactive dashboards and reports using Power BI — from data modeling to visual storytelling."
+                            "description": "Expert in creating interactive dashboards, reports, and data visualizations using Power BI."
                         },
                         "pt": {
-                            "description": "Criar painéis e relatórios interativos e perspicazes usando o Power BI — desde modelagem de dados até narrativa visual."
+                            "description": "Especialista em criar painéis interativos, relatórios e visualizações de dados usando Power BI."
                         },
                         "ru": {
-                            "description": "Создание информативных, интерактивных панелей и отчетов с использованием Power BI — от моделирования данных до визуального повествования."
+                            "description": "Эксперт в создании интерактивных панелей, отчетов и визуализаций данных с использованием Power BI."
                         },
                         "ja": {
-                            "description": "Power BIを使用して洞察に満ちたインタラクティブなダッシュボードとレポートを作成 — データモデリングからビジュアルストーリーテリングまで。"
+                            "description": "Power BIを使用してインタラクティブなダッシュボード、レポート、およびデータ可視化を作成する専門家。"
                         }
                     }
                 },
@@ -292,16 +292,16 @@
                     "locales": {
                         "en": {
                             "title": "Excel",
-                            "description": "Advanced use of Excel for data analysis, pivot tables, dashboards, and integrating VBA when automation is needed."
+                            "description": "Advanced Excel skills for data analysis, modeling, and visualization."
                         },
                         "pt": {
-                            "description": "Uso avançado do Excel para análise de dados, tabelas dinâmicas, painéis e integração de VBA quando a automação é necessária."
+                            "description": "Habilidades avançadas em Excel para análise de dados, modelagem e visualização."
                         },
                         "ru": {
-                            "description": "Расширенное использование Excel для анализа данных, сводных таблиц, панелей и интеграции VBA при необходимости автоматизации."
+                            "description": "Продвинутые навыки Excel для анализа данных, моделирования и визуализации."
                         },
                         "ja": {
-                            "description": "データ分析、ピボットテーブル、ダッシュボードのためのExcelの高度な使用、および自動化が必要な場合のVBAの統合。"
+                            "description": "データ分析、モデリング、および可視化のための高度なExcelスキル。"
                         }
                     }
                 },
@@ -312,17 +312,17 @@
                     "percentage": 80,
                     "locales": {
                         "en": {
-                            "title": "Git & GitHub",
-                            "description": "Using Git and GitHub to manage version control, collaborate on data projects, and track analysis workflows."
+                            "title": "Git",
+                            "description": "Proficient in version control and collaboration using Git and GitHub."
                         },
                         "pt": {
-                            "description": "Uso de Git e GitHub para gerenciar controle de versão, colaborar em projetos de dados e rastrear fluxos de trabalho de análise."
+                            "description": "Proficiente em controle de versão e colaboração usando Git e GitHub."
                         },
                         "ru": {
-                            "description": "Использование Git и GitHub для управления контролем версий, сотрудничества в проектах данных и отслеживания рабочих процессов анализа."
+                            "description": "Умею работать с системами контроля версий и сотрудничать с помощью Git и GitHub."
                         },
                         "ja": {
-                            "description": "データプロジェクトのバージョン管理、コラボレーション、および分析ワークフローの追跡にGitとGitHubを使用。"
+                            "description": "GitとGitHubを使用したバージョン管理とコラボレーションに熟練しています。"
                         }
                     }
                 },
@@ -334,16 +334,16 @@
                     "locales": {
                         "en": {
                             "title": "Google Cloud Platform",
-                            "description": "Using GCP tools like BigQuery and Data Studio for scalable data processing and visualization in the cloud."
+                            "description": "Experience with GCP services for data storage, processing, and analytics."
                         },
                         "pt": {
-                            "description": "Uso de ferramentas GCP como BigQuery e Data Studio para processamento e visualização de dados escaláveis na nuvem."
+                            "description": "Experiência com serviços GCP para armazenamento, processamento e análise de dados."
                         },
                         "ru": {
-                            "description": "Использование инструментов GCP, таких как BigQuery и Data Studio, для масштабируемой обработки и визуализации данных в облаке."
+                            "description": "Опыт работы с сервисами GCP для хранения, обработки и аналитики данных."
                         },
                         "ja": {
-                            "description": "BigQueryやData StudioなどのGCPツールを使用して、クラウドでのスケーラブルなデータ処理と可視化を行う。"
+                            "description": "データの保存、処理、および分析のためのGCPサービスの経験。"
                         }
                     }
                 }
@@ -372,22 +372,22 @@
                     "locales": {
                         "en": {
                             "title": "Brazilian Portuguese",
-                            "description": "Native speaker of Portuguese, excellent communication skills in both written and spoken forms. I can effectively convey complex ideas and collaborate with Portuguese-speaking teams.",
+                            "description": "Native Portuguese speaker with strong communication skills.",
                             "level": "Native"
                         },
                         "pt": {
                             "title": "Português Brasileiro",
-                            "description": "Falante nativo de português, excelente comunicação tanto escrita quanto falada. Posso transmitir ideias complexas de forma eficaz e colaborar com equipes que falam português.",
+                            "description": "Português nativo com ótimas habilidades de comunicação.",
                             "level": "Nativo"
                         },
                         "ru": {
                             "title": "Бразильский Португальский",
-                            "description": "Родной носитель португальского языка, отличные навыки общения как в письменной, так и в устной форме. Могу эффективно передавать сложные идеи и сотрудничать с командами, говорящими на португальском языке.",
+                            "description": "Родной носитель португальского языка с хорошими коммуникативными навыками.",
                             "level": "Родной"
                         },
                         "ja": {
                             "title": "ブラジルポルトガル語",
-                            "description": "ポルトガル語のネイティブスピーカーで、書面および口頭での優れたコミュニケーションスキルを持つ。 複雑なアイデアを効果的に伝え、ポルトガル語を話すチームと協力することができる。",
+                            "description": "ポルトガル語のネイティブで、コミュ力に自信あり。",
                             "level": "ネイティブ"
                         }
                     }
@@ -398,22 +398,22 @@
                     "locales": {
                         "en": {
                             "title": "English",
-                            "description": "Fluent in English, capable of speaking with ease in professional settings. Able to understand complex technical documentation and communicate effectively with international teams.",
+                            "description": "Fluent in English for professional settings, solid communication skills.",
                             "level": "Fluent"
                         },
                         "pt": {
                             "title": "Inglês",
-                            "description": "Fluente em inglês, capaz de falar com facilidade em ambientes profissionais. Capaz de entender documentação técnica complexa e se comunicar efetivamente com equipes internacionais.",
+                            "description": "Fluente em inglês para ambientes profissionais, com boas habilidades de comunicação.",
                             "level": "Fluente"
                         },
                         "ru": {
                             "title": "Английский",
-                            "description": "Свободно владею английским языком, способен легко говорить в профессиональных условиях. Могу понимать сложную техническую документацию и эффективно общаться с международными командами.",
+                            "description": "Свободно владею английским для профессиональной деятельности, хорошие навыки общения.",
                             "level": "Свободно"
                         },
                         "ja": {
                             "title": "英語",
-                            "description": "英語に堪能で、プロフェッショナルな環境で容易に会話が可能。複雑な技術文書を理解し、国際チームと効果的にコミュニケーションを取ることができる。",
+                            "description": "プロフェッショナルな環境での英語に流暢で、優れたコミュニケーションスキルを持っています。",
                             "level": "流暢"
                         }
                     }
@@ -424,22 +424,22 @@
                     "locales": {
                         "en": {
                             "title": "Japanese",
-                            "description": "Conversational proficiency in Japanese, able to engage in basic conversations and understand common phrases. Currently improving skills through language courses and practice.",
+                            "description": "I can hold simple conversations in Japanese, currently learning.",
                             "level": "Intermediate"
                         },
                         "pt": {
                             "title": "Japonês",
-                            "description": "Proficiência conversacional em japonês, capaz de participar de conversas básicas e entender frases comuns. Atualmente melhorando as habilidades por meio de cursos de idiomas e prática.",
+                            "description": "Consigo ter conversas simples em japonês, atualmente aprendendo.",
                             "level": "Intermediário"
                         },
                         "ru": {
                             "title": "Японский",
-                            "description": "Разговорная компетенция в японском языке, способен участвовать в базовых разговорах и понимать общие фразы. В настоящее время улучшаю навыки через языковые курсы и практику.",
+                            "description": "Владею разговорным японским, в процессе изучения.",
                             "level": "Средний"
                         },
                         "ja": {
                             "title": "日本語",
-                            "description": "日本語での会話能力があり、基本的な会話に参加し、一般的なフレーズを理解することができる。現在、語学コースと練習を通じてスキルを向上させている。",
+                            "description": "簡単な会話ができる日本語を学んでいます。",
                             "level": "中級"
                         }
                     }
@@ -450,22 +450,22 @@
                     "locales": {
                         "en": {
                             "title": "Russian",
-                            "description": "Basic understanding of Russian, currently learning the language to enhance communication with Russian-speaking colleagues and clients.",
+                            "description": "Good notions of basic Russian for communication.",
                             "level": "Beginner"
                         },
                         "pt": {
                             "title": "Russo",
-                            "description": "Compreensão básica do russo, atualmente aprendendo o idioma para melhorar a comunicação com colegas e clientes de língua russa.",
+                            "description": "Noções básicas de russo para comunicação corriqueira.",
                             "level": "Iniciante"
                         },
                         "ru": {
                             "title": "Русский",
-                            "description": "Базовое понимание русского языка, в настоящее время изучаю язык для улучшения общения с русскоязычными коллегами и клиентами.",
+                            "description": "Хорошие основы базового русского для общения.",
                             "level": "Начальный"
                         },
                         "ja": {
                             "title": "ロシア語",
-                            "description": "ロシア語の基本的な理解があり、ロシア語を話す同僚やクライアントとのコミュニケーションを強化するために言語を学んでいる。",
+                            "description": "コミュニケーションのための基本的なロシア語の知識があります。",
                             "level": "初級"
                         }
                     }
