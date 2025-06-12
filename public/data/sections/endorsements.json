@@ -94,10 +94,22 @@
             "id": 2,
             "component": "ArticleSkills",
             "locales": {
-                "en": {"title": "Awards"},
-                "pt": {"title": "Premiações"},
-                "ru": {"title": "Награды"},
-                "ja": {"title": "受賞歴"}
+                "en": {
+                    "title": "Awards",
+                    "description": "Also check out some of the awards and recognitions I have received throughout my career:"
+                },
+                "pt": {
+                    "title": "Premiações",
+                    "description": "Confira também algumas das premiações e reconhecimentos que recebi ao longo da minha carreira:"
+                },
+                "ru": {
+                    "title": "Награды",
+                    "description": "Также ознакомьтесь с некоторыми наградами и признаниями, которые я получил за свою карьеру:"
+                },
+                "ja": {
+                    "title": "受賞歴",
+                    "description": "私のキャリアを通じて受けた賞や認識の一部もご覧ください:"
+                }
             },
             "settings": {
                 "order_items_by": "id",
