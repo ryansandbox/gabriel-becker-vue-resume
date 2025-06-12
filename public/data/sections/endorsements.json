@@ -18,19 +18,19 @@
                     "locales": {
                         "en": {
                             "title": "Angela Weber",
-                            "description": "Chief Technology Officer at <em>CyberSafe Securities</em>.<br><strong>angelaweber@email.com</strong>"
+                            "description": "Chief Technology Officer at <em>CyberSafe Securities</em>.<br><strong class='text-muted'>angelaweber@email.com</strong>"
                         },
                         "pt": {
                             "title": "Angela Weber",
-                            "description": "Diretora de Tecnologia da <em>CyberSafe Securities</em>.<br><strong>angelaweber@email.com</strong>"
+                            "description": "Diretora de Tecnologia da <em>CyberSafe Securities</em>.<br><strong class='text-muted'>angelaweber@email.com</strong>"
                         },
                         "ru": {
                             "title": "Анжела Вебер",
-                            "description": "Главный технический директор в <em>CyberSafe Securities</em>.<br><strong>angelaweber@email.com</strong>"
+                            "description": "Главный технический директор в <em>CyberSafe Securities</em>.<br><strong class='text-muted'>angelaweber@email.com</strong>"
                         },
                         "ja": {
                             "title": "アンジェラ・ウェーバー",
-                            "description": "<em>サイバーセーフ証券</em>の最高技術責任者。<br><strong>angelaweber@email.com</strong>"
+                            "description": "<em>サイバーセーフ証券</em>の最高技術責任者。<br><strong class='text-muted'>angelaweber@email.com</strong>"
                         }
                     },
                     "links": [
@@ -43,20 +43,20 @@
                     "locales": {
                         "en": {
                             "title": "Takashi Yamamoto",
-                            "description": "Senior Data Scientist at <em>Hikari Technologies</em>.<br><strong>yamamoto.tk@hikari.jp</strong>",
+                            "description": "Senior Data Scientist at <em>Hikari Technologies</em>.<br><strong class='text-muted'>yamamoto.tk@hikari.jp</strong>",
                             "level": ""
                         },
                         "pt": {
                             "title": "Takashi Yamamoto",
-                            "description": "Cientista de Dados Sênior na <em>Hikari Technologies</em>.<br><strong>yamamoto.tk@hikari.jp</strong>"
+                            "description": "Cientista de Dados Sênior na <em>Hikari Technologies</em>.<br><strong class='text-muted'>yamamoto.tk@hikari.jp</strong>"
                         },
                         "ru": {
                             "title": "Такасхи Ямамото",
-                            "description": "Старший научный сотрудник по данным в <em>Hikari Technologies</em>.<br><strong>yamamoto.tk@hikari.jp</strong>"
+                            "description": "Старший научный сотрудник по данным в <em>Hikari Technologies</em>.<br><strong class='text-muted'>yamamoto.tk@hikari.jp</strong>"
                         },
                         "ja": {
                             "title": "山本 隆",
-                            "description": "<em>光テクノロジーズ</em>のシニアデータサイエンティスト。<br><strong>yamamoto.tk@hikari.jp</strong>"
+                            "description": "<em>光テクノロジーズ</em>のシニアデータサイエンティスト。<br><strong class='text-muted'>yamamoto.tk@hikari.jp</strong>"
                         }
                     },
                     "links": [
@@ -69,19 +69,19 @@
                     "locales": {
                         "en": {
                             "title": "Aiko Nishimura",
-                            "description": "Lead Software Engineer at <em>Konami Digital Ent</em>.<br><strong>nishimura.aiko@konami.jp</strong>"
+                            "description": "Lead Software Engineer at <em>Konami Digital Ent</em>.<br><strong class='text-muted'>nishimura.aiko@konami.jp</strong>"
                         },
                         "pt": {
                             "title": "Aiko Nishimura",
-                            "description": "Eng. de Software Líder na <em>Konami Digital Ent</em>.<br><strong>nishimura.aiko@konami.jp</strong>"
+                            "description": "Eng. de Software Líder na <em>Konami Digital Ent</em>.<br><strong class='text-muted'>nishimura.aiko@konami.jp</strong>"
                         },
                         "ru": {
                             "title": "Айко Нисимура",
-                            "description": "Ведущий инженер-программист в <em>Konami Digital Ent</em>.<br><strong>nishimura.aiko@konami.jp</strong>"
+                            "description": "Ведущий инженер-программист в <em>Konami Digital Ent</em>.<br><strong class='text-muted'>nishimura.aiko@konami.jp</strong>"
                         },
                         "ja": {
                             "title": "西村 愛子",
-                            "description": "<em>コナミデジタルエンタテインメント</em>のリードソフトウェアエンジニア。<br><strong>nishimura.aiko@konami.jp</strong>"
+                            "description": "<em>コナミデジタルエンタテインメント</em>のリードソフトウェアエンジニア。<br><strong class='text-muted'>nishimura.aiko@konami.jp</strong>"
                         }
                     },
                     "links": [
