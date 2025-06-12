@@ -8,7 +8,7 @@
             "type": "centered",
             "locales": {
                 "en": {
-                    "title": "A little bit *about me...*",
+                    "title": "A tiny bit *about me...*",
                     "title_short": "About Me",
                     "nav_label": "About"
                 },
@@ -210,25 +210,25 @@
                 "en": {
                     "title": "*Hobbies* & Interests",
                     "title_short": "Hobbies",
-                    "description": "A glimpse into my personal passions and favorite pastimes.",
+                    "description": "This is how I usually spend my free time:",
                     "nav_label": "Hobbies"
                 },
                 "pt": {
                     "title": "*Hobbies* e Interesses",
                     "title_short": "Hobbies",
-                    "description": "Uma visão geral sobre minhas paixões pessoais e passatempos favoritos.",
+                    "description": "É assim que costumo passar meu tempo livre:",
                     "nav_label": "Hobbies"
                 },
                 "ru": {
                     "title": "*Увлечения* и Интересы",
                     "title_short": "Увлечения",
-                    "description": "Немного о моих увлечениях и любимом досуге.",
+                    "description": "Вот как я провожу свое свободное время:",
                     "nav_label": "Увлечения"
                 },
                 "ja": {
                     "title": "*趣味*と興味",
                     "title_short": "趣味",
-                    "description": "私の趣味や好きなことを少しだけ紹介します。",
+                    "description": "私が自由時間を過ごす方法:",
                     "nav_label": "趣味"
                 }
             }

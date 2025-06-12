@@ -33,7 +33,6 @@
                         }
                     }
                 },
-
                 {
                     "id": 2,
                     "dateStart": { "year": 2022, "month": 3 },
@@ -67,7 +66,6 @@
                 }
             ]
         },
-
         {
             "id": 2,
             "component": "ArticleThread",

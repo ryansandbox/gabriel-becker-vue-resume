@@ -59,7 +59,6 @@
                         {"faIcon": "fa-solid fa-globe", "href": "https://ryanbalieiro.com", "stringKey": "view_website"}
                     ]
                 },
-
                 {
                     "id": 2,
                     "category": "commercial",
@@ -89,7 +88,6 @@
                         {"faIcon": "fa-solid fa-globe", "href": "https://ryanbalieiro.com", "stringKey": "view_website"}
                     ]
                 },
-
                 {
                     "id": 3,
                     "category": "open_source",
@@ -118,7 +116,6 @@
                         {"faIcon": "fa-solid fa-globe", "href": "https://ryanbalieiro.com", "stringKey": "view_website"}
                     ]
                 },
-
                 {
                     "id": 4,
                     "category": "open_source",
@@ -147,7 +144,6 @@
                         {"faIcon": "fa-solid fa-globe", "href": "https://ryanbalieiro.com", "stringKey": "view_website"}
                     ]
                 },
-
                 {
                     "id": 5,
                     "category": "commercial",
@@ -177,7 +173,6 @@
                         {"faIcon": "fa-solid fa-globe", "href": "https://ryanbalieiro.com", "stringKey": "view_website"}
                     ]
                 },
-
                 {
                     "id": 6,
                     "category": "commercial",
@@ -205,7 +200,6 @@
                         {"faIcon": "fa-solid fa-globe", "href": "https://ryanbalieiro.com", "stringKey": "view_website"}
                     ]
                 },
-
                 {
                     "id": 7,
                     "category": "open_source",
@@ -233,7 +227,6 @@
                         {"faIcon": "fa-brands fa-github", "href": "https://github.com/ryanbalieiro/vue-resume-template", "stringKey": "view_on_github"}
                     ]
                 },
-
                 {
                     "id": 8,
                     "category": "commercial",

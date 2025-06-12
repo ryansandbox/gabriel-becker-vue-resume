@@ -101,7 +101,6 @@
                 }
             ]
         },
-
         {
             "id": 2,
             "component": "ArticleSkills",
@@ -247,7 +246,6 @@
                 }
             ]
         },
-
         {
             "id": 3,
             "component": "ArticleSkills",
@@ -351,7 +349,6 @@
                 }
             ]
         },
-
         {
             "id": 4,
             "component": "ArticleSkills",
@@ -375,22 +372,22 @@
                     "locales": {
                         "en": {
                             "title": "Brazilian Portuguese",
-                            "description": "Native speaker of Portuguese, excellent communication skills in both written and spoken forms.",
+                            "description": "Native speaker of Portuguese, excellent communication skills in both written and spoken forms. I can effectively convey complex ideas and collaborate with Portuguese-speaking teams.",
                             "level": "Native"
                         },
                         "pt": {
                             "title": "Português Brasileiro",
-                            "description": "Falante nativo de português, excelente comunicação tanto escrita quanto falada.",
+                            "description": "Falante nativo de português, excelente comunicação tanto escrita quanto falada. Posso transmitir ideias complexas de forma eficaz e colaborar com equipes que falam português.",
                             "level": "Nativo"
                         },
                         "ru": {
                             "title": "Бразильский Португальский",
-                            "description": "Родной носитель португальского языка, отличные навыки общения как в письменной, так и в устной форме.",
+                            "description": "Родной носитель португальского языка, отличные навыки общения как в письменной, так и в устной форме. Могу эффективно передавать сложные идеи и сотрудничать с командами, говорящими на португальском языке.",
                             "level": "Родной"
                         },
                         "ja": {
                             "title": "ブラジルポルトガル語",
-                            "description": "ポルトガル語のネイティブスピーカーで、書面および口頭での優れたコミュニケーションスキルを持つ。",
+                            "description": "ポルトガル語のネイティブスピーカーで、書面および口頭での優れたコミュニケーションスキルを持つ。 複雑なアイデアを効果的に伝え、ポルトガル語を話すチームと協力することができる。",
                             "level": "ネイティブ"
                         }
                     }
