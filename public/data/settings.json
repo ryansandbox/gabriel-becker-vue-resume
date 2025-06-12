@@ -6,7 +6,7 @@
         {
             "name": "English",
             "id": "en",
-            "flagUrl": "images/flags/en-us.png",
+            "flagUrl": "images/flags/en-uk.png",
             "default": true
         },
 

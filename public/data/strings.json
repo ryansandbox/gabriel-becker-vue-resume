@@ -24,10 +24,14 @@
             "where_to_find": "Where to Find",
             "where_to_find_description": "{project} is available on the following platforms and services:",
             "view_certification": "View Certification",
+            "view_completion_certificate": "View Completion Certificate",
             "view_more_info": "View More Info",
             "view_on_app_store": "App Store",
+            "view_on_github": "Official Repository",
             "view_on_google_play": "Google Play",
-            "view_on_windows_store": "Windows Store"
+            "view_on_npm": "NPM Package",
+            "view_on_windows_store": "Windows Store",
+            "view_website": "Official Website"
         },
         "pt": {
             "about": "Sobre",
@@ -44,7 +48,7 @@
             "message": "Mensagem",
             "name": "Nome",
             "now": "Atualmente",
-            "phone": "Número de telefone",
+            "phone": "Telefone",
             "send_message": "Enviar mensagem",
             "send_another_message": "Enviar outra mensagem",
             "sending_message": "Enviando mensagem...",
@@ -53,10 +57,14 @@
             "where_to_find": "Onde encontrar",
             "where_to_find_description": "{project} está disponível nas seguintes plataformas e serviços:",
             "view_certification": "Ver certificação",
+            "view_completion_certificate": "Ver certificado de conclusão",
             "view_more_info": "Ver mais informações",
             "view_on_app_store": "App Store",
+            "view_on_github": "Repositório Oficial",
             "view_on_google_play": "Google Play",
-            "view_on_windows_store": "Windows Store"
+            "view_on_npm": "Pacote NPM",
+            "view_on_windows_store": "Windows Store",
+            "view_website": "Site Oficial"
         },
         "ru": {
             "about": "Обо мне",
@@ -82,10 +90,14 @@
             "where_to_find": "Где найти",
             "where_to_find_description": "{project} доступен на следующих платформах и сервисах:",
             "view_certification": "Посмотреть сертификат",
+            "view_completion_certificate": "Посмотреть сертификат о завершении",
             "view_more_info": "Подробнее",
             "view_on_app_store": "App Store",
+            "view_on_github": "Официальный репозиторий",
             "view_on_google_play": "Google Play",
-            "view_on_windows_store": "Windows Store"
+            "view_on_npm": "Пакет NPM",
+            "view_on_windows_store": "Windows Store",
+            "view_website": "Официальный сайт"
         },
         "ja": {
             "about": "概要",
@@ -111,10 +123,14 @@
             "where_to_find": "掲載先",
             "where_to_find_description": "{project} は以下のプラットフォームとサービスで利用可能です：",
             "view_certification": "認定を見る",
+            "view_completion_certificate": "修了証を見る",
             "view_more_info": "詳細を見る",
             "view_on_app_store": "App Store",
+            "view_on_github": "公式リポジトリ",
             "view_on_google_play": "Google Play",
-            "view_on_windows_store": "Windows Store"
+            "view_on_npm": "NPM パッケージ",
+            "view_on_windows_store": "Windows Store",
+            "view_website": "公式ウェブサイト"
         }
     }
 }

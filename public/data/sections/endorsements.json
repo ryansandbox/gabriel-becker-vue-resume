@@ -1,5 +1,36 @@
 {
     "articles": [
-
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": ""
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": true,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-regular fa-user",
+                    "locales": {
+                        "en": {
+                            "title": "Angela Weber",
+                            "description": "",
+                            "level": "CyberSafe Securities"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://google.com", "staticLabel": "angelaweber@email.com"}
+                    ]
+                }
+            ]
+        }
     ]
 }

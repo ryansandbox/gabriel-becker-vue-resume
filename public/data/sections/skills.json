@@ -397,7 +397,7 @@
                 },
                 {
                     "id": 2,
-                    "img": "images/flags/en-us.png",
+                    "img": "images/flags/en-uk.png",
                     "locales": {
                         "en": {
                             "title": "English",

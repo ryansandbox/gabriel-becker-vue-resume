@@ -242,7 +242,7 @@
             "type": "column",
             "locales": {
                 "en": {
-                    "title": "Let's *get in touch*",
+                    "title": "Let's get *in touch*",
                     "title_short": null,
                     "description": "Feel free to reach out for any inquiries or collaborations.",
                     "nav_label": "Contact"

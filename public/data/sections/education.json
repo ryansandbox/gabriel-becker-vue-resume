@@ -110,7 +110,7 @@
                         }
                     },
                     "links": [
-                        {"href": "https://google.com", "stringKey": "view_certification"}
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_completion_certificate"}
                     ]
                 },
                 {
@@ -141,9 +141,41 @@
                         }
                     },
                     "links": [
-                        {"href": "https://google.com", "stringKey": "view_certification"}
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_completion_certificate"}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "dateStart": { "year": 2025, "month": 4 },
+                    "fallbackFaIcon": "fa-solid fa-print",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Responsible AI Practices",
+                            "description": "Learned how to build <strong>accountable and transparent AI systems</strong> by integrating ethical review processes, bias detection, and fairness evaluations into the machine learning lifecycle.",
+                            "institution": "Google AI"
+                        },
+                        "pt": {
+                            "title": "Práticas Responsáveis de IA",
+                            "description": "Aprendi a construir <strong>sistemas de IA transparentes e responsáveis</strong>, integrando processos de revisão ética, detecção de viés e avaliações de equidade ao ciclo de vida do aprendizado de máquina.",
+                            "institution": "Google AI"
+                        },
+                        "ru": {
+                            "title": "Ответственные практики ИИ",
+                            "description": "Изучил, как создавать <strong>прозрачные и подотчётные системы ИИ</strong>, включая этическую экспертизу, выявление предвзятости и оценку справедливости в жизненном цикле машинного обучения.",
+                            "institution": "Google AI"
+                        },
+                        "ja": {
+                            "title": "責任あるAIの実践",
+                            "description": "機械学習ライフサイクルにおいて、倫理的レビュー、バイアス検出、そして公平性評価を取り入れることで、<strong>説明可能で責任あるAIシステム</strong>の構築方法を学びました。",
+                            "institution": "Google AI"
+                        }
+                    },
+                    "links": [
+                        { "href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_completion_certificate" }
                     ]
                 }
+
             ]
         }
     ]
