@@ -28,7 +28,7 @@
     "contactOptions": [
         {
             "id": "address",
-            "faIcon": "fa-regular fa-map",
+            "faIcon": "pi pi-map-marker",
             "href": null,
             "locales": {
                 "en": {

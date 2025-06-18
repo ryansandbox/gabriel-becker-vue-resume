@@ -4,7 +4,7 @@
             "id": "about",
             "categoryId": "profile",
             "jsonPath": "/sections/about.json",
-            "faIcon": "fa-solid fa-address-card",
+            "faIcon": "fa-regular fa-address-card",
             "type": "centered",
             "locales": {
                 "en": {
@@ -34,7 +34,7 @@
             "id": "experience",
             "categoryId": "background",
             "jsonPath": "/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase",
+            "faIcon": "pi pi-briefcase",
             "type": "column",
             "locales": {
                 "en": {
@@ -68,7 +68,7 @@
             "id": "education",
             "categoryId": "background",
             "jsonPath": "/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap",
+            "faIcon": "pi pi-graduation-cap",
             "type": "column",
             "locales": {
                 "en": {
@@ -102,7 +102,7 @@
             "id": "skills",
             "categoryId": "profile",
             "jsonPath": "/sections/skills.json",
-            "faIcon": "fa-solid fa-tools",
+            "faIcon": "pi pi-wrench",
             "type": "column",
             "locales": {
                 "en": {
@@ -136,7 +136,7 @@
             "id": "freelancing",
             "categoryId": "portfolio",
             "jsonPath": "/sections/freelancing.json",
-            "faIcon": "fa-solid fa-folder-open",
+            "faIcon": "pi pi-folder-open",
             "type": "column",
             "locales": {
                 "en": {
@@ -170,7 +170,7 @@
             "id": "endorsements",
             "categoryId": "portfolio",
             "jsonPath": "/sections/endorsements.json",
-            "faIcon": "fa-solid fa-stamp",
+            "faIcon": "pi pi-thumbs-up",
             "type": "column",
             "locales": {
                 "en": {
@@ -204,7 +204,7 @@
             "id": "hobbies",
             "categoryId": "profile",
             "jsonPath": "/sections/hobbies.json",
-            "faIcon": "fa-solid fa-heart",
+            "faIcon": "fa-regular fa-heart",
             "type": "column",
             "locales": {
                 "en": {
@@ -238,7 +238,7 @@
             "id": "contact",
             "categoryId": "contact",
             "jsonPath": "/sections/contact.json",
-            "faIcon": "fa-solid fa-envelope",
+            "faIcon": "fa-regular fa-envelope",
             "type": "column",
             "locales": {
                 "en": {
