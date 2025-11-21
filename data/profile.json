@@ -52,7 +52,8 @@
             "value": "gabe.becker@gmail.com",
             "valueShort": "gabe.becker@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:gabe.becker@gmail.com"
+            "href": "mailto:gabe.becker@gmail.com",
+            "copy": true
         },
 
         {
@@ -60,7 +61,8 @@
             "value": "@ryanbalieiro",
             "valueShort": "@ryanbalieiro",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/ryanbalieiro"
+            "href": "https://github.com/ryanbalieiro",
+            "copy": false
         },
 
         {
@@ -68,7 +70,8 @@
             "value": "Gabriel Becker",
             "valueShort": "Gabriel Becker",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com/gabe-becker-dev"
+            "href": "https://linkedin.com/gabe-becker-dev",
+            "copy": false
         },
 
         {
@@ -76,7 +79,8 @@
             "value": "+81 90-1234-5678",
             "valueShort": "090-1234-5678",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:+819012345678"
+            "href": "tel:+819012345678",
+            "copy": true
         },
 
         {
@@ -84,7 +88,8 @@
             "value": "@gabebeckerdev",
             "valueShort": "@gabebeckerdev",
             "faIcon": "fa-brands fa-x-twitter",
-            "href": "https://x.com/gabebeckerdev"
+            "href": "https://x.com/gabebeckerdev",
+            "copy": false
         },
 
         {
@@ -92,7 +97,8 @@
             "value": "gabebeckerdev",
             "valueShort": "gabebeckerdev",
             "faIcon": "fa-brands fa-discord",
-            "href": "https://discord.com/users/gabebeckerdev"
+            "href": "https://discord.com/users/gabebeckerdev",
+            "copy": false
         },
 
         {
@@ -100,7 +106,8 @@
             "value": "@gabebeckerdev",
             "valueShort": "@gabebeckerdev",
             "faIcon": "fa-brands fa-medium",
-            "href": "https://medium.com/gabebeckerdev"
+            "href": "https://medium.com/gabebeckerdev",
+            "copy": false
         }
     ]
 }

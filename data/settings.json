@@ -1,7 +1,6 @@
 {
     "preloaderEnabled": true,
     "navToggleEnabled": true,
-
     "supportedLanguages": [
         {
             "name": "English",
@@ -9,21 +8,18 @@
             "flagUrl": "images/flags/en-uk.png",
             "default": true
         },
-
         {
             "id": "ja",
             "name": "日本語",
             "flagUrl": "images/flags/ja.png",
             "default": false
         },
-
         {
             "name": "Português",
             "id": "pt",
             "flagUrl": "images/flags/pt-br.png",
             "default": false
         },
-
         {
             "name": "Русский",
             "id": "ru",
