@@ -10,7 +10,6 @@
                 "ja": { "nav_label": "プロフィール" }
             }
         },
-
         {
             "id": "background",
             "faIcon": "fa-regular fa-clock",
@@ -21,7 +20,6 @@
                 "ja": { "nav_label": "履歴" }
             }
         },
-
         {
             "id": "portfolio",
             "faIcon": "fa-regular fa-folder-open",
@@ -32,7 +30,6 @@
                 "ja": { "nav_label": "ポートフォリオ" }
             }
         },
-
         {
             "id": "contact",
             "faIcon": "fa-regular fa-envelope",
